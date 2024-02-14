@@ -1,0 +1,18 @@
+<?php
+namespace App\Http\Controllers\Admin;
+use App\Models\User;
+namespace App\Http\Controllers;
+
+
+use Illuminate\Http\Request;
+
+
+// class AdminController extends Controller
+// {
+//     public function addview()
+//     {
+//         return view('admin.add_teacher');
+//     }
+
+    
+// }
